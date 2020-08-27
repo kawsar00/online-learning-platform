@@ -59,12 +59,12 @@ const Courses = () => {
             <hr />
           </div>
           <h4 className="text-center mb-4">Total Enrolled: <span className="text-danger font-weight-bold ">{cart.length}</span> </h4>
-          <button type="button" className="btn btn-primary btn-block mb-4">
-            Total Price <span className="badge badge-light">${totalPrice.toFixed(2)}</span>
-          </button>
           <ul className="list-group">
             {cart.map(cart => <Cart cart={cart} key={cart.id}></Cart>)}
           </ul>
+          <button type="button" className="btn btn-primary btn-block my-4">
+            Total Price <span className="badge badge-light">${totalPrice.toFixed(2)}</span>
+          </button>
         </div>
       </div>
     </div>    
