@@ -1,0 +1,31 @@
+.card-body {
+  padding: 0;
+  padding-top: 10px;
+}
+.card-title {
+  margin-bottom: 2px;
+}
+.rating {
+  font-size: 17px;
+  font-weight: bold;
+  color: #e6a020;
+  margin-left: 50px;
+}
+.star {
+  padding-bottom: 3px;
+  width: 80px;
+}
+hr {
+  margin-top: 0px;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 3px solid #284462;
+  width: 100px;
+}
+.card-shadow{
+  transition: 0.2s all ease-in-out;
+}
+.card-shadow:hover{
+  transform: scale(1.02);
+  box-shadow: 5px 5px 10px gray;
+}

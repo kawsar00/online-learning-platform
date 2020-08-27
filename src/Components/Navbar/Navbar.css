@@ -1,0 +1,16 @@
+.navbar{
+  padding:0;
+}
+.bg-dark {
+  background-color: #1a3756!important;
+}
+.navbar-expand .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 18px;
+  padding: 1rem;
+}
+.nav-link:hover {
+  background: #28486b;
+  display: block;
+  font-weight: 500;
+}

@@ -5,6 +5,7 @@ var webDevelopment = [
     mentor:"Andrei Neagoie",
     price: 20.99,
     picture:"https://i.ibb.co/Fw9gyW6/complete-deve.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:7,
@@ -12,6 +13,7 @@ var webDevelopment = [
     mentor:"Jonas Schmedtmann",
     price: 18.99,
     picture:"https://i.ibb.co/235gZ35/jss.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:8,
@@ -19,6 +21,7 @@ var webDevelopment = [
     mentor:"Maximilian Schwarzmüller",
     price: 17.99,
     picture:"https://i.ibb.co/8YnTM8b/angulars.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:9,
@@ -26,6 +29,7 @@ var webDevelopment = [
     mentor:"Andrew Mead",
     price: 19.99,
     picture:"https://i.ibb.co/ZSQR8qM/reacts.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:10,
@@ -33,6 +37,7 @@ var webDevelopment = [
     mentor:"Edwin Diaz",
     price: 11.99,
     picture:"https://i.ibb.co/wYWX74T/php.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:11,
@@ -40,6 +45,7 @@ var webDevelopment = [
     mentor:"Jose Portilla",
     price: 13.99,
     picture:"https://i.ibb.co/DLmF8ny/python.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
 ]
 

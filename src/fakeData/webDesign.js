@@ -1,10 +1,11 @@
-var webDesign = [
+var webDesign =[
   {
     id:1,
     title:"Complete Web Design for Beginners",
     mentor:"Chris Toward",
     price: 14.99,
     picture:"https://i.ibb.co/559K3Jr/web-d.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:2,
@@ -12,6 +13,7 @@ var webDesign = [
     mentor:"Brad Schiff",
     price: 13.99,
     picture:"https://i.ibb.co/TWnzJHX/wordpresss.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:3,
@@ -19,6 +21,7 @@ var webDesign = [
     mentor:"Manuel Lorenz",
     price: 10.99,
     picture:"https://i.ibb.co/HXN8nxf/css.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:4,
@@ -26,6 +29,7 @@ var webDesign = [
     mentor:"Daniel Walter Scott",
     price: 12.99,
     picture:"https://i.ibb.co/X82yD0K/web-design.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
   {
     id:5,
@@ -33,6 +37,7 @@ var webDesign = [
     mentor:"Andrew Williams",
     price: 16.99,
     picture:"https://i.ibb.co/Jswgz24/dream.jpg",
+    star:"https://i.ibb.co/2KKK8jP/star.png",
   },
 ]
 
